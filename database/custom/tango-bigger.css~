@@ -1,0 +1,183 @@
+code {
+    font-size: 26px;
+}
+
+header code {
+    font-size: 40px;
+}
+
+pre {
+    font-size: 21px;
+    margin-top: 0em !important;
+    padding-top: 0em !important;
+}
+
+div.slides {
+    font-size: 180%;
+}
+
+div.slides ol,ul {
+    font-size: 100% !important;
+    margin-left: 1.25em;
+    /* margin-top: -1.5em; */
+    line-height: 1.25em;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.normalf {
+    font-size: 110% !important;
+}
+
+.larger {
+    font-size: 140% !important;
+}
+
+.large {
+    font-size: 180% !important;
+}
+
+.subscript {
+    font-size: 70% !important;
+    vertical-align:bottom;
+}
+.overall {
+    text-align:right;
+    font-style:italic;
+}
+.recht {
+    text-align:right; !important
+    border:1px solid black;
+}
+.huge {
+    font-size: 260% !important;
+}
+
+.evenlessspacebefore {
+    margin-top: -1.5em;
+}
+
+.lessspacebefore {
+    margin-top: -1.0em;
+}
+
+.lesserspacebefore {
+    margin-top: -0.75em;
+}
+
+.evenlessspaceafter {
+    margin-bottom: 0em;
+}
+
+.lessspaceafter {
+    margin-bottom: 0.5em;
+}
+
+.lesserspaceafter {
+    margin-bottom: 1.0em;
+}
+
+p, li {
+    font-size: 115% !important;
+}
+
+li {
+    line-height: 1.2em;
+}
+
+p {
+    line-height: 1.7em;
+    margin-bottom: 1.25em;
+}
+
+.highline {
+    line-height: 1.5em;
+}
+
+.lowline {
+    line-height: 1.25em;
+}
+
+.medline {
+    line-height: 1.375em;
+}
+
+.quitesmaller {
+    font-size: 100% !important;
+}
+
+.smaller {
+    font-size: 90% !important;
+}
+
+.small {
+    font-size: 70% !important;
+}
+
+.comment {
+    float:right;
+}
+
+.note {
+    position: absolute;
+    bottom: 1em;
+    right: 10px;
+    line-height: 1em;
+    margin: 0.1em;
+}
+
+strong,em {
+    color: #000 !important;
+}
+
+code {
+    color: #002a67 !important;
+}
+
+blockquote>p {
+    margin: 0px;
+}
+
+div.slide table {
+    min-width: 40%;
+    text-align: center;
+    font-size: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.slide td {
+    width: 20%;
+}
+
+div.slide th {
+    border-bottom: solid 4px #555753;
+}
+
+div.slide table tr:nth-child(odd) td{
+    background-color: #CCCCCC;
+}
+
+div.slide h1:not(only-child) {
+    font-size: 140%;
+}
+img[alt=php], img[alt=php_mysql] { 
+	margin-right:-12px;
+	margin-top:-10px;
+	float:right;
+}
+img[alt=mySQLpwd], img[alt=apache] {  
+	float:left;
+	margin-top:4px;
+}
+.box{
+	border:1px solid black;
+}
+.shrink {
+	width:50%;
+}
+.flotar {
+	float:left;
+}
